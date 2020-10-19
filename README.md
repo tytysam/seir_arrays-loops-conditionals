@@ -1,12 +1,13 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly)
 
-#  Arrays, Loops, and Conditional Reps
+#  Arrays, Loops, Objects, and Conditional Reps
 
 #### Learning Objectives
 
 - Practice with Arrays
 - Practice with Loops
 - Practice with Conditionals
+- Practive with Objects
 
 #### Prerequisites
 
@@ -327,8 +328,50 @@ Expected output:
 "Find the Median answered"
 <hr>
 
+#### Practice with Objects
+- Copy and paste this object into your JS file.
+- Follow the instructions below to practice working with Objects.
+
+```js
+let ship = {
+  name: 'Millennium Falcon',
+  speed: 11,
+  crew: ['Han Solo', 'Chewbacca'],
+  passengers: [],
+  famous: true,
+  heardOfIt: function() {
+    console.log("You've never heard of the millennium falcon!?");
+    this.famous = false;
+  },
+  addPassenger: function(passenger) {
+    this.passengers.push(passenger);
+  },
+  removePassenger: function(passenger) {
+    let index = this.passengers.indexOf(passenger);
+    this.passengers.splice(index, 1);
+  }
+};
+```
 
 
+- Console log the name
+- Change the speed to 13
+- Add 2 passengers, "Leia" and "Luke"
+- console log whether it's famous or not
+- Ask if you've heard of the millenium falcon
+- console log if it's still famous
+- Remove Leia as a passengers
+- Add a new property called "color" and set it equal to "beige"
+- Add a new property called "missions" and set it equal to an empty object
+- Add 3 properties to "missions"
+     - kashyyk: true
+     - "escape-from-asteroid" : "scary"
+     -"smuggled cargo": ['prisoners', 'stolen goods', 'unobtanium']
+
+<hr>
+&#x1F534; The commit message should read: <br>
+"My ship object is looking awesome!"
+<hr>
 
 ### Hungry for More?
 
