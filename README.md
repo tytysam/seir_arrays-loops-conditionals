@@ -28,7 +28,12 @@
 
 ## Getting Started
 
-1) In your terminal, navigate to to the `homework` folder inside today's folder
+---
+
+## Technical Requirements
+- A JavaScript file that runs without syntax errors (comment out stuff that doesn't work)
+- At least one commit message per problem
+
 
 2) Create a javascript file inside your `homework` folder to record your answers (maybe name it `answers.js`)
 
