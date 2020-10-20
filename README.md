@@ -16,8 +16,8 @@
 #### Recommendations
 
 - If homework is taking you more than 4 hours to complete:
-    - Go to TA hours
     - Get on zoom with a classmate
+    - Go to TA hours
     - Reach out to the instructional team during class time to schedule a 1:1 meeting
     - Don't stress about the Hungry For More section
 - If home work is taking you less than 4 hours to complete
