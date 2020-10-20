@@ -414,6 +414,26 @@ You may watch these videos to refresh your knowlege. They are between 5 - 15 min
 
 ---
 
+## Technical Requirements
+- A JavaScript file that runs without syntax errors (comment out stuff that doesn't work)
+- At least one commit message per problem
+
+---
+
+## Deliverables
+- Show you attempted each of the JavaScript Exercises in `solutions.js`.
+- Come to class with a solid understanding of basic HTML and CSS.
+
+---
+
+## **Submission Guidelines**
+
+- Must be submitted no later than before the start of next class
+- Create an issue on the class repo. Click the issues tab:
+![issues tab](https://i.imgur.com/9IuxV5N.png) - there is a link that will pop up in the issues template to the class wiki called Homework-Submission that you can go to to see a detailed walkthrough with images
+
+---
+
 *Copyright 2019, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
 
 ---
