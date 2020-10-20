@@ -63,7 +63,7 @@
 
 ---
 
-# **Do: JavaScript Excercises**
+# **Do: JavaScript Exercises**
 
 ## **Instructions:**
 
