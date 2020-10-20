@@ -202,41 +202,7 @@ As a developer, you'll be a lifelong learner and constantly encountering new thi
 #### &#x1F534; The commit message should read: <br> "Yell at the Ninja Turtles answered"
 ---
 
-
-## 6) Methods, Revisited
-
-Here is a list of favMovies:
-
-```
-const favMovies = ['Jaws', 'The Fellowship of the Ring', 'Howl\'s Moving Castle', 'Django Unchained', 'Cloud Atlas', 'The Usual Suspects', 'Toy Story', 'Conan the Barbarian', 'Titanic', 'Harry Potter', 'Fried Green Tomatoes', 'Volver', 'Oculus', 'Seven', 'Black Panther', 'Harry Potter', 'Imitation of Life', 'Snatch', 'Fast and Furious'];
-```
-
-- Console log:  the index of `Titanic`
-
-- Do the following and console.log the final results (I have included some *thought* questions, you don't have to write out an answer for those marked as such):
-
-Note: if you have to add to the array, feel free to add any movie you'd like
-
- 1. use the `.sort` method Thought question: what did this do to the array? Did it permanently alter it?
- 1. Use the method `pop`
- 1. `push` "Guardians of the Galaxy"
- 1. Reverse the array
- 1. Use the `shift` method
- 1. `unshift` - what does it return?
- 1. `splice` "Django Unchained" and add "Avatar" (try finding the index of "Django Unchained", instead of counting it yourself) Thought question: did this permanently alter our array?
- 1. `slice` the last half of the array (challenge yourself and try to programatically determine the middle of the array  rather than counting it and hard coding it) - Thought question: did this permanently alter our array?
- 1. store the value of your `slice` in a variable, console.log it - Thought question: what is going on here?
- 1. console.log your final results
-
-- After running the above tasks, console.log the index of "Fast and Furious"
-    -We removed it from the array, what value do we get when we look for the index of something that is not in the array?
-
-- Thought question: that we declared the variable `favMovies` with `const`, and yet, we were allowed to change the array. Weird? Should we have used `let`?
----
-#### &#x1F534; The commit message should read: <br> "Methods Revisited answered"
----
-
-## 7) Where is Waldo
+## 6) Where is Waldo
 
 * With the following multi-dimensional array
 
@@ -253,12 +219,10 @@ const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
 #### &#x1F534; The commit message should read: <br> "Where is Waldo answered"
 ---
 
-## 8) Excited Kitten
+## 7) Excited Kitten
 1. Write code that logs "Love me, pet me! HSSSSSS!" 20 times.
 
 2. For every **even** number in your loop, log "...human...why you taking pictures of me?...", "...the catnip made me do it...", or "...why does the red dot always get away..." at random.
-
-
 
 <details><summary>Hint 1</summary>
 
@@ -307,9 +271,7 @@ You will need to use Math.random() in order to choose a random number and assign
 #### &#x1F534; The commit message should read: <br> "Excited Kittens answered"
 ---
 
-
-
-## 9) Find the Median
+## 8) Find the Median
 - Find the median number in the following `nums` array, then console.log that number.
 -  _hint_ if you check the length of the array / 2, you might get not get a whole number. In which case, look into `Math.floor( // something )`
 
@@ -324,7 +286,7 @@ Expected output:
 #### &#x1F534; The commit message should read: <br> "Find the Median answered"
 ---
 
-## 10) Practice with Objects
+## 9) Practice with Objects
 - Copy and paste this object into your JS file.
 - Follow the instructions below to practice working with Objects.
 
