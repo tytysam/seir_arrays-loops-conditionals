@@ -39,27 +39,9 @@
 
 4) **Do** the JavaScript Exercises below (read the instructions completely)
 
-5) **Review** HTML & CSS (at the bottom of this markdown)
+5) **Submit** your work by following the Submition Guidelines at the bottom of this markdown
 
----
-
-## Technical Requirements
-- A JavaScript file that runs without syntax errors (comment out stuff that doesn't work)
-- At least one commit message per problem
-
----
-
-## Deliverables
-- Show you attempted each of the JavaScript Exercises in `solutions.js`.
-- Come to class with a solid understanding of basic HTML and CSS.
-
----
-
-## **Submission Guidelines**
-
-- Must be submitted no later than before the start of next class
-- Create an issue on the class repo. Click the issues tab:
-![issues tab](https://i.imgur.com/9IuxV5N.png) - there is a link that will pop up in the issues template to the class wiki called Homework-Submission that you can go to to see a detailed walkthrough with images
+6) **Review** HTML & CSS (scroll way down)
 
 ---
 
@@ -398,6 +380,25 @@ Continue looking at the closet arrays:
 
 ---
 
+## Technical Requirements
+- A JavaScript file that runs without syntax errors (comment out stuff that doesn't work)
+- At least one commit message per problem
+
+---
+
+## Deliverables
+- Show you attempted each of the JavaScript Exercises in `solutions.js`.
+
+---
+
+## **Submission Guidelines**
+
+- Must be submitted no later than before the start of next class
+- Create an issue on the class repo. Click the issues tab:
+![issues tab](https://i.imgur.com/9IuxV5N.png) - there is a link that will pop up in the issues template to the class wiki called Homework-Submission that you can go to to see a detailed walkthrough with images
+
+---
+
 # **Review: HTML & CSS**
 
 Prepare yourself for tomorrow's morning exercise! Tomorrow we're going to be learning how to use Flexbox. If you don't know what that is right now, that's okay. The most important thing right now is that you feel comfortable with the basics of HTML and CSS.
@@ -411,26 +412,6 @@ You may watch these videos to refresh your knowlege. They are between 5 - 15 min
 [CSS Intro (including css files in HTML, elements)](https://www.youtube.com/watch?v=xWiT2TWCFjc&index=3&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
 
 [CSS Basics (colors, background, font properties)](https://www.youtube.com/watch?v=UMMHsQPmfug&index=4&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
-
----
-
-## Technical Requirements
-- A JavaScript file that runs without syntax errors (comment out stuff that doesn't work)
-- At least one commit message per problem
-
----
-
-## Deliverables
-- Show you attempted each of the JavaScript Exercises in `solutions.js`.
-- Come to class with a solid understanding of basic HTML and CSS.
-
----
-
-## **Submission Guidelines**
-
-- Must be submitted no later than before the start of next class
-- Create an issue on the class repo. Click the issues tab:
-![issues tab](https://i.imgur.com/9IuxV5N.png) - there is a link that will pop up in the issues template to the class wiki called Homework-Submission that you can go to to see a detailed walkthrough with images
 
 ---
 
