@@ -24,6 +24,7 @@
     - Work on the Hungry For More section - make the most of your time here and find challenges
     - Help someone who is stuck, teaching is a great way to learn something more in depth
     - Reach out to the instructional team for more challenges/ways to keep growing with your abilities
+
 ---
 
 ## **Getting Started**
@@ -49,17 +50,26 @@
 ---
 
 ## Deliverables
-- Show you attempted each of the JavaScript Exercises in `answers.js`.
+- Show you attempted each of the JavaScript Exercises in `solutions.js`.
 - Come to class with a solid understanding of basic HTML and CSS.
 
 ---
 
-## Submission Guidelines
+## **Submission Guidelines**
 
 - Must be submitted no later than before the start of next class
 - Create an issue on the class repo. Click the issues tab:
 ![issues tab](https://i.imgur.com/9IuxV5N.png) - there is a link that will pop up in the issues template to the class wiki called Homework-Submission that you can go to to see a detailed walkthrough with images
 
+---
+
+# **Do: JavaScript Excercises**
+
+## **Instructions:**
+
+* All of your solutions should be written in the `solutions.js` file that you create.
+
+* Keep your solutions organized! Use the following header structure to organize your code. Each solution should be written under the corresponding header.
 ```js
 ////////////////////////////////
 // Easy Going
@@ -97,84 +107,52 @@
 
 
 ////////////////////////////////
-//  Excited Kitten
+// Excited Kitten
 ////////////////////////////////
 
 
 ////////////////////////////////
-//  Find the Median
+// Find the Median
 ////////////////////////////////
-
-
 ```
 
-4) TEST YOUR WORK! Make sure that your code works `node file_name.js`.
+* Test all of your code using this command: `node file_name.js`
 
-5) If you're stuck on something for "too long" or get overly frustrated, make a comment and move on. Return to it later. You may find some later problems easier or need a break from what you're working on and set some fresh eyes on something you've been stuck on.
+* After each section (even if you're not fully done with it), *add* and *commit* your work. ([read the docs if you forget how](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line))
 
-6) After each section (even if you're not fully done with it), *add* and *commit* your work.
+  * Please use the commit messages that you see at the end of each section (modify it if you need to ie `checkers almost solved`). We will see these messages on Github. It will help us to see your progress. If you go back and fix a section, commit again with an updated message.
 
-Please use the commit messages that you see at the end of each section (modify it if you need to ie `checkers almost solved`). We will see these messages on Github. It will help us to see your progress. If you go back and fix a section, commit again with an updated message.
+* When you are done with your homework, push it to your `origin` (your forked repository on GitHub), and follow the Submission Guidelines above.
 
-7) When you are done with your homework, push it to your `origin` (this is your Github) and make an issue on our repo.
+## **Tips:**
 
-**Final note:** You are not alone! Everyone else in the class is working on this as well. Send Slack messages, make a Zoom channel, or meet with the TA to discuss sticking points.
+* If you're stuck on something for "too long" or get overly frustrated, make a comment for yourself and move on. Return to it later. You may find some later problems easier. Sometimes taking a break and coming back later with fresh eyes is all you need.
 
+* **You are not alone!** Everyone else in the class is working on this as well. Send Slack messages, make a Zoom channel, or meet with the TA to discuss sticking points.
 
-### Part I:  HTML & CSS
+---
 
-Prepare yourself for tomorrow's morning exercise! Tomorrow we're going to be learning how to use Flexbox. If you don't know what that is right now, that's okay. The most important thing right now is that you feel comfortable with the basics of HTML and CSS.
+## **Exercises:**
 
-Rank you comfort with the following material on a scale of 0 - 5:
+---
 
-
-0 - I have no idea what it is
-
-1 - I am not sure
-
-2 - I am shakey, I could use a refresher
-
-3 - I almost feel like I've got it
-
-4 - I feel pretty good about the material, but some extra review would help
-
-5 - I got this! I am ready to code
-
-Based on your self-assessed score, watch the appropriate video(s)
-
-The videos are between 5 - 15 minutes long
-
-[HTML Intro (tags, content, attributes, semantic HTML)](https://www.youtube.com/watch?v=DxhXFpsN5I4&index=1&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
-
-[HTML Elements (headers, navigation, lists, sections, etc.) and Media (images, audio, videos)](https://www.youtube.com/watch?v=KhbnrDhWDdE&index=2&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
-
-[CSS Intro (including css files in HTML, elements)](https://www.youtube.com/watch?v=xWiT2TWCFjc&index=3&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
-
-[CSS Basics (colors, background, font properties)](https://www.youtube.com/watch?v=UMMHsQPmfug&index=4&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
-
-<hr>
-
-###  Part II: JavaScript Reps
-
-#### Easy Going
+## 1) Easy Going
 * Write a for loop that will log the numbers 1 through 20.
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Easy Going answered"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Easy Going answered"
+---
 
-#### Get Even
+## 2) Get Even
 * Write a for loop that will log only the even numbers in 0 through 200.
 >Hint: Think about the increment expression.
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Get Even answered"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Get Even answered"
+---
 
 
-#### Fizz Buzz
+## 3) Fizz Buzz
 
 This is a classic problem that you should get really comfortable solving. If you've solved it before, try to make it more elegant and short.
 
@@ -186,12 +164,11 @@ This is a classic problem that you should get really comfortable solving. If you
 
 4. If a number is divisible by 3 and 5 log "FizzBuzz" instead of the number.
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Fizz Buzz answered"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Fizz Buzz answered"
+---
 
-#### Wild Wild Life
+## 4) Wild Wild Life
 Use the following arrays to answer the questions below (name,species ,age, hometown):
 You should be modifying the elements by accessing them. It is up to you which methods to use.
 
@@ -210,26 +187,23 @@ const dart = ["D'Art" , "Demogorgan Dog", 2, "Upside Down"]
 
 4. Porgee decides that Wolfy can't be named "Wolfy" anymore. Remove "Wolfy" from the `wolfy` array and replace it with "Gameboy".
 
+---
+#### &#x1F534; The commit message should read: <br> "Wild Wild Life answered"
+---
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Wild Wild Life answered"
-<hr>
-
-#### Yell at the Ninja Turtles
+## 5) Yell at the Ninja Turtles
 1. Create an array with the members of the ninja turtles (Donatello, Leonardo, Raphael, Michaelangelo)
 
 2. Use a `for of loop` (not a typo - try it out! Try a `for of` loop) to call `toUpperCase()` on each of them and print out the result.
 
 As a developer, you'll be a lifelong learner and constantly encountering new things. We'll give you little stretches like this to get you used to looking at documentation and figuring some things out on your own. You've got this!
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Yell at the Ninja Turtles answered"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Yell at the Ninja Turtles answered"
+---
 
 
-#### Methods, Revisited
+## 6) Methods, Revisited
 
 Here is a list of favMovies:
 
@@ -258,12 +232,11 @@ Note: if you have to add to the array, feel free to add any movie you'd like
     -We removed it from the array, what value do we get when we look for the index of something that is not in the array?
 
 - Thought question: that we declared the variable `favMovies` with `const`, and yet, we were allowed to change the array. Weird? Should we have used `let`?
-<hr>
-&#x1F534; The commit message should read: <br>
-"Methods Revisited answered"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Methods Revisited answered"
+---
 
-#### Where is Waldo
+## 7) Where is Waldo
 
 * With the following multi-dimensional array
 
@@ -276,12 +249,11 @@ const whereIsWaldo = [["Timmy", "Frank"], "Eggbert",
 * Change "Neff" to "No One"
 * Access and console.log "Waldo"
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Where is Waldo answered"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Where is Waldo answered"
+---
 
-#### Excited Kitten
+## 8) Excited Kitten
 1. Write code that logs "Love me, pet me! HSSSSSS!" 20 times.
 
 2. For every **even** number in your loop, log "...human...why you taking pictures of me?...", "...the catnip made me do it...", or "...why does the red dot always get away..." at random.
@@ -331,14 +303,13 @@ You will need to use Math.random() in order to choose a random number and assign
 
 ![Image of cat with funny quote about dot](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRETGsssSXu2AS15GpQIBhuSgkhP2q_4JZcPopN4dFP-v85mAePGA)
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Excited Kittens answered"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Excited Kittens answered"
+---
 
 
 
-#### Find the Median
+## 9) Find the Median
 - Find the median number in the following `nums` array, then console.log that number.
 -  _hint_ if you check the length of the array / 2, you might get not get a whole number. In which case, look into `Math.floor( // something )`
 
@@ -349,12 +320,11 @@ Expected output:
 => 15
 ```
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Find the Median answered"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Find the Median answered"
+---
 
-#### Practice with Objects
+## 10) Practice with Objects
 - Copy and paste this object into your JS file.
 - Follow the instructions below to practice working with Objects.
 
@@ -394,25 +364,25 @@ let ship = {
      - "escape-from-asteroid" : "scary"
      -"smuggled cargo": ['prisoners', 'stolen goods', 'unobtanium']
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"My ship object is looking awesome!"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "My ship object is looking awesome!"
+---
 
-### Hungry for More?
+## **Hungry for More?**
 
-#### Lab Time Revisited
+---
 
-Choose one that you didn't get to solve in lab
+## Lab Time Revisited
 
-##### Fibonnacci (morning lab)
-##### Checkerboard (morning lab)
-##### TwoDArray (afternoon lab)
+Choose one (or more) that you didn't get to solve in lab:
 
+* Fibonnacci (morning lab)
+* Checkerboard (morning lab)
+* TwoDArray (afternoon lab)
 
-##### Finish all 3 Lab Questions
+---
 
-#### Return of the Closets
+## Return of the Closets
 
 Below, we've given you examples of Kristyn and Thom's closets modeled as data in JavaScript. Use this data to answer the following questions.
 
@@ -455,17 +425,21 @@ const thomsCloset = [
 #### Dress Us Up
 1. Modify your code to put together **3 separate outfits** for Kristyn and Thom. Put the output in a sentence to tell us what we'll be wearing. Mix and match!
 
-<hr>
-&#x1F534; The commit message should read: <br>
-"Kristyn and Thom have their outfits ready for class - array practice"
-<hr>
+---
+#### &#x1F534; The commit message should read: <br> "Kristyn and Thom have their outfits ready for class - array practice"
+---
 
-#### Dirty Laundry
+## Dirty Laundry
 Continue looking at the closet arrays:
 1. Time to do laundry - loop through Kristyn's closet and log the sentence "WHIRR: Now washing (item)" for each item in the array.
 
 #### Inventory
 2. Thom wants to do inventory on his closet. Using **bracket notation**, log the arrays containing all of Thom's shirts, pants, and accessories.
+
+---
+#### &#x1F534; The commit message should read: <br> "Hungry for More: I tackled..."
+
+---
 
 # **Review: HTML & CSS**
 
@@ -488,5 +462,5 @@ You may watch these videos to refresh your knowlege. They are between 5 - 15 min
 ---
 
 Creator: WDI-Funke<br>
-    Modified by: Kristyn Bryan, Karolin Rafalski<br>
+    Modified by: Kristyn Bryan, Karolin Rafalski, Kay Vail<br>
 ---
