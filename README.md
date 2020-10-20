@@ -34,8 +34,11 @@
 - A JavaScript file that runs without syntax errors (comment out stuff that doesn't work)
 - At least one commit message per problem
 
+---
 
-2) Create a javascript file inside your `homework` folder to record your answers (maybe name it `answers.js`)
+## Deliverables
+- Show you attempted each of the JavaScript Exercises in `answers.js`.
+- Come to class with a solid understanding of basic HTML and CSS.
 
 ---
 
