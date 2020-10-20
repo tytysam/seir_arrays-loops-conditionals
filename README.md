@@ -26,7 +26,19 @@
     - Reach out to the instructional team for more challenges/ways to keep growing with your abilities
 ---
 
-## Getting Started
+## **Getting Started**
+
+1) In your terminal, navigate into `SEIR-Margaret/w01d03` (if that directory doesn't exist, create it!)
+
+2) Fork this repository ([read the docs if you forget how](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo))
+
+2) Clone down your forked repository ([read the docs if you forget how](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository))
+
+3) Inside the `homework-w01d03` directory, create a file named `solutions.js` (this is where you will store your solutions to the JavaScript Exercises)
+
+4) **Do** the JavaScript Exercises below (read the instructions completely)
+
+5) **Review** HTML & CSS (at the bottom of this markdown)
 
 ---
 
