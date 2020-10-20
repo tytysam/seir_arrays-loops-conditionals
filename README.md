@@ -173,7 +173,7 @@ const dart = ["D'Art" , "Demogorgan Dog", 2, "Upside Down"]
 
 2. Use a `for of loop` (not a typo - try it out! Try a `for of` loop) to call `toUpperCase()` on each of them and print out the result.
 
-As a developer, you'll be a lifelong learner and constantly encountering new things. We'll give you little stretches like this to get you used to looking at documentation and figuring some things out on your own. You've got this!
+> As a developer, you'll be a lifelong learner and constantly encountering new things. We'll give you little stretches like this to get you used to looking at documentation and figuring some things out on your own. You've got this!
 
 ---
 #### &#x1F534; The commit message should read: <br> "Yell at the Ninja Turtles answered"
