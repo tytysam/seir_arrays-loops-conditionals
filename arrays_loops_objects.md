@@ -308,7 +308,7 @@ let ship = {
 
 ---
 
-## Lab Time Revisited
+### Lab Time Revisited
 
 Choose one (or more) that you didn't get to solve in lab:
 
@@ -318,7 +318,7 @@ Choose one (or more) that you didn't get to solve in lab:
 
 ---
 
-## Return of the Closets
+### Return of the Closets
 
 Below, we've given you examples of Kristyn and Thom's closets modeled as data in JavaScript. Use this data to answer the following questions.
 
@@ -365,7 +365,7 @@ const thomsCloset = [
 #### &#x1F534; The commit message should read: <br> "Kristyn and Thom have their outfits ready for class - array practice"
 ---
 
-## Dirty Laundry
+### Dirty Laundry
 Continue looking at the closet arrays:
 1. Time to do laundry - loop through Kristyn's closet and log the sentence "WHIRR: Now washing (item)" for each item in the array.
 
