@@ -2,6 +2,8 @@
 
 #  Arrays, Loops, Objects, and Conditional Reps
 
+![three kittens lounging adorably](https://images.unsplash.com/photo-1532386236358-a33d8a9434e3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1278&q=80)
+
 #### Learning Objectives
 
 - Practice with Arrays
