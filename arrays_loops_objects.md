@@ -30,7 +30,7 @@
 
 ## **Getting Started**
 
-1) In your terminal, navigate into `SEIR-Margaret/w01d03` (if that directory doesn't exist, create it!)
+1) In your terminal, navigate into `SEIR/w01d03` (if that directory doesn't exist, create it!)
 
 2) **Fork** this repository ([read the docs if you forget how](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo))
 
