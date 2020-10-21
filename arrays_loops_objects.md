@@ -396,7 +396,7 @@ Continue looking at the closet arrays:
 - To submit your homework, follow the instructions found in the [wiki](https://git.generalassemb.ly/SEIR-Margaret/class-recordings-and-info/blob/master/submitting-homework.md). 
 - When you try to submit an issue, there will be a form that looks like shown below, please fill it out before you create the issue so that we can see how you're doing/feeling so far!
 
-![](https://i.imgur.com/39jmFEX.png)
+![screenshot shoting GitHub issue template for homework submission](https://i.imgur.com/39jmFEX.png)
 
 ---
 
