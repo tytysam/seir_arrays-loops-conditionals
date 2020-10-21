@@ -397,11 +397,3 @@ Continue looking at the closet arrays:
 ![](https://i.imgur.com/39jmFEX.png)
 
 ---
-
-*Copyright 2019, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
-
----
-
-Creator: WDI-Funke<br>
-    Modified by: Kristyn Bryan, Karolin Rafalski, Kay Vail<br>
----
