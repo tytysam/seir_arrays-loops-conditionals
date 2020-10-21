@@ -6,7 +6,7 @@
 
 1) **Fork and clone** this repository into your `w01d03` directory
 
-2) **Do:** [this exercise](arrays_loops_objects.md)
+2) **Do:** [Arrays, Loops, Objects, and Conditional Reps](arrays_loops_objects.md)
 
 3) **Submit:** via GitHub issues. Follow the instructions found in the [wiki](https://git.generalassemb.ly/SEIR-Margaret/class-recordings-and-info/blob/master/submitting-homework.md).
 
