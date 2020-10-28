@@ -45,16 +45,26 @@
 
 ////////////////////////////////
 // Yell at the Ninja Turtles
-////////////////////////////////
-const ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"];
+// ////////////////////////////////
+// const ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"];
 
-for (each of ninjaTurtles) {
-  console.log(each.toUpperCase());
-}
+// for (each of ninjaTurtles) {
+//   console.log(each.toUpperCase());
+// }
 
 ////////////////////////////////
 // Where is Waldo
 ////////////////////////////////
+const whereIsWaldo = [
+  ["Timmy", "Frank"],
+  "Eggbert",
+  ["Lucinda", "Jacc", "Neff", "Snoop"],
+  ["Petunia", ["Baked Goods", "Waldo"]],
+];
+
+whereIsWaldo.splice(1, 1);
+whereIsWaldo[1][2] = "No One";
+console.log(whereIsWaldo[2][1][1]);
 
 ////////////////////////////////
 // Excited Kitten
