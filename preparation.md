@@ -4,16 +4,16 @@
 
 ## Overview
 
-Prepare yourself for tomorrow's morning exercise! Tomorrow we're going to be learning how to use Flexbox. If you don't know what that is right now, that's okay. The most important thing right now is that you feel comfortable with the basics of HTML and CSS.
+Prepare yourself for tomorrow's morning exercise! Tomorrow we're going to be learning more about JavaScript Functions and Array Methods. If you don't know what that is right now, that's okay. The most important thing right now is that you feel comfortable with the concepts and use-cases!
 
-## Watch
+## Watch & Read
 
 You may watch these videos to refresh your knowlege. They are between 5 - 15 minutes long
 
-- [HTML Intro (tags, content, attributes, semantic HTML)](https://www.youtube.com/watch?v=DxhXFpsN5I4&index=1&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [JavaScript Array Methods (w3schools documentation)](https://www.w3schools.com/js/js_array_methods.asp)
 
-- [HTML Elements (headers, navigation, lists, sections, etc.) and Media (images, audio, videos)](https://www.youtube.com/watch?v=KhbnrDhWDdE&index=2&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [JavaScript Functions (w3schools documentation)](https://www.w3schools.com/js/js_functions.asp)
 
-- [CSS Intro (including css files in HTML, elements)](https://www.youtube.com/watch?v=xWiT2TWCFjc&index=3&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [JavaScript Fuctions & Parameters (youtube video)](https://www.youtube.com/watch?v=xjAu2Y2nJ34)
 
-- [CSS Basics (colors, background, font properties)](https://www.youtube.com/watch?v=UMMHsQPmfug&index=4&list=PLdnONIhPScST0Vy4LrIZiYKpFNoxgyH7J)
+- [JavaScript Array Methods (youtube video)](https://www.youtube.com/watch?v=R8rmfD9Y5-c)
