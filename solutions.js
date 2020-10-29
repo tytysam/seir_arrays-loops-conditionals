@@ -1,6 +1,6 @@
-// ////////////////////////////////
-// // Easy Going
-// ////////////////////////////////
+// // ////////////////////////////////
+// // // Easy Going
+// // ////////////////////////////////
 // for (i = 1; i < 21; i++) {
 //   console.log(i);
 // }
@@ -136,40 +136,84 @@
 //   }
 // };
 
-////////////////////////////////
-// Practice with Objects
-////////////////////////////////
+// ////////////////////////////////
+// // Practice with Objects
+// ////////////////////////////////
 
-let ship = {
-  name: "Millennium Falcon",
-  speed: 11,
-  crew: ["Han Solo", "Chewbacca"],
-  passengers: [],
-  famous: true,
-  heardOfIt: function () {
-    console.log("You've never heard of the millennium falcon!?");
-    this.famous = false;
-  },
-  addPassenger: function (passenger) {
-    this.passengers.push(passenger);
-  },
-  removePassenger: function (passenger) {
-    let index = this.passengers.indexOf(passenger);
-    this.passengers.splice(index, 1);
-  },
-};
+// let ship = {
+//   name: "Millennium Falcon",
+//   speed: 11,
+//   crew: ["Han Solo", "Chewbacca"],
+//   passengers: [],
+//   famous: true,
+//   heardOfIt: function () {
+//     console.log("You've never heard of the millennium falcon!?");
+//     this.famous = false;
+//   },
+//   addPassenger: function (passenger) {
+//     this.passengers.push(passenger);
+//   },
+//   removePassenger: function (passenger) {
+//     let index = this.passengers.indexOf(passenger);
+//     this.passengers.splice(index, 1);
+//   },
+// };
 
-console.log(ship["name"]);
-ship.speed = 13;
-ship.addPassenger("Leia");
-ship.addPassenger("Luke");
-console.log(ship["famous"]);
-ship.heardOfIt();
-ship.famous = true
-  ? console.log("it's still famous!")
-  : console.log("the millenial what?");
-ship.color = "beige";
-ship.missions = {};
-ship.missions.kashyyk = true;
-ship.missions.escapeFromAsteroid = "scary";
-ship.missions.smuggledCargo = ["prisoners", "stolen goods", "unobtanium"];
+// console.log(ship["name"]);
+// ship.speed = 13;
+// ship.addPassenger("Leia");
+// ship.addPassenger("Luke");
+// console.log(ship["famous"]);
+// ship.heardOfIt();
+// ship.famous = true
+//   ? console.log("it's still famous!")
+//   : console.log("the millenial what?");
+// ship.color = "beige";
+// ship.missions = {};
+// ship.missions.kashyyk = true;
+// ship.missions.escapeFromAsteroid = "scary";
+// ship.missions.smuggledCargo = ["prisoners", "stolen goods", "unobtanium"];
+
+////////////////////////////////
+// Return of the Closets
+////////////////////////////////
+const kristynsCloset = [
+  "cowboy boots",
+  "right sock",
+  "GA hoodie",
+  "green pants",
+  "yellow knit hat",
+  "marshmallow peeps",
+];
+
+// Thom's closet is more complicated. Check out this nested data structure!!
+const thomsCloset = [
+  [
+    // These are Thom's shirts
+    "grey button-up",
+    "dark grey button-up",
+    "light blue button-up",
+    "blue button-up",
+  ],
+  [
+    // These are Thom's pants
+    "grey jeans",
+    "jeans",
+    "PJs",
+  ],
+  [
+    // Thom's accessories
+    "wool mittens",
+    "wool scarf",
+    "raybans",
+    "left shoe",
+  ],
+];
+
+//Alien Attire
+
+let kristynsShoe = "";
+kristynsShoe = thomsCloset[2].pop();
+kristynsCloset.push(kristynsShoe);
+
+console.log(kristynsCloset);
