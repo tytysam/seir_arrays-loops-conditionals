@@ -1,6 +1,6 @@
-////////////////////////////////
-// Easy Going
-////////////////////////////////
+// ////////////////////////////////
+// // Easy Going
+// ////////////////////////////////
 for (i = 1; i < 21; i++) {
   console.log(i);
 }
@@ -44,7 +44,7 @@ wolfy[0] = "Gameboy";
 console.log(dart);
 
 //////////////////////////////
-Yell at the Ninja Turtles
+// Yell at the Ninja Turtles
 ////////////////////////////////
 const ninjaTurtles = ["Donatello", "Leonardo", "Raphael", "Michaelangelo"];
 
@@ -53,7 +53,7 @@ for (each of ninjaTurtles) {
 }
 
 //////////////////////////////
-Where is Waldo
+// Where is Waldo
 //////////////////////////////
 const whereIsWaldo = [
   ["Timmy", "Frank"],
@@ -89,4 +89,53 @@ for (i = 1; i < 21; i++) {
 
 ////////////////////////////////
 // Find the Median
+////////////////////////////////
+const nums = [
+  14,
+  11,
+  16,
+  15,
+  13,
+  16,
+  15,
+  17,
+  19,
+  11,
+  12,
+  14,
+  19,
+  11,
+  15,
+  17,
+  11,
+  18,
+  12,
+  17,
+  12,
+  71,
+  18,
+  15,
+  12,
+];
+
+//#Resource for arr.sort()
+// https://techformist.com/average-median-javascript/
+
+//If array length is even, then median is average of two numbers...
+//If array length is odd, then pick the middle number as median.
+
+const len = nums.length;
+const arrSort = nums.sort();
+const middle = Math.floor(nums.length / 2);
+
+const median = () => {
+  if (len % 2 === 0) {
+    return arrSort[middle] + arrSort[middle - 1] / 2;
+  } else {
+    return arrSort[middle - 1];
+  }
+};
+
+////////////////////////////////
+// Practice with Objects
 ////////////////////////////////
